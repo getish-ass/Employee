@@ -13,6 +13,7 @@ namespace Employee
 
             employeeName = name;
             employeeSalary = salary;
+
         }
         public void DesplayDetails()
         {
